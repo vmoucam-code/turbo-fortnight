@@ -198,4 +198,4 @@ public class GazeClick : MonoBehaviour
     {
         Debug.Log($"[GazeClick Debug] Target: {currentTarget?.name ?? "None"}, Timer: {gazeTimer:F2}s, Gazing: {isGazing}");
     }
-}
+} 
